@@ -21,6 +21,14 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+---
+
+## 📦 Laravel POS System - Product & Order Management
+
+This Laravel-based POS (Point of Sale) system is designed to manage products with advanced features such as dynamic product variations, pricing control, and a real-time shopping cart. The system allows users to add products with details like name, SKU, unit, unit value, selling and purchase prices, discount, tax, and images. It supports product variations (e.g., size, color) where each variation can have different pricing. The POS page displays a searchable and paginated product list on the left and a dynamic shopping cart on the right that updates totals as quantities change. Orders can be placed and stored in the database, and a separate order list page allows filtering by date range and includes pagination. The project uses Laravel 10/11 with best practices such as custom route files and separate view folders. Proper form validation is implemented, and setup instructions are included in the documentation for easy installation. If the project is partially complete, explanations are provided in the documentation.
+
+---
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
